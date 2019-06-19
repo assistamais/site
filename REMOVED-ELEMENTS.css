@@ -1,5 +1,5 @@
 /* ------------------------ Botões ------------------------- */
 
-.raised button-submit btnHeaderPremiere headerButton emby-button {
+.btnHeaderPremiere {
     display: none;
 }
